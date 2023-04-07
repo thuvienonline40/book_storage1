@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hieu-con-de-yeu-con-dung-cach_19505.html",
+    "title" : "Hiểu Con Để Yêu Con Đúng Cách",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Park Jae Yeun",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 21149,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_e2ac168567362c3c72dcb6339bfbfa11.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_e2ac168567362c3c72dcb6339bfbfa11.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hieu-con-1/hieu-con-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "hieu-con-1"
+  }, {
+    "href" : "https://archive.org/download/hieu-con-1/hieu-con-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "hieu-con-2"
+  }, {
+    "href" : "https://archive.org/download/hieu-con-1/hieu-con-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6749,
+    "title" : "hieu-con-3"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hieu-con-1/hieu-con-1.mp3",
+    "title" : "hieu-con-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-con-1/hieu-con-2.mp3",
+    "title" : "hieu-con-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hieu-con-1/hieu-con-3.mp3",
+    "title" : "hieu-con-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

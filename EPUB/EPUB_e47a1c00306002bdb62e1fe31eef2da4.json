@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thach-thuc-ban-hang_19485.html",
+    "title" : "Thách Thức Bán Hàng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Matthew Dixon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 25808,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_e47a1c00306002bdb62e1fe31eef2da4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_e47a1c00306002bdb62e1fe31eef2da4.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thach-thuc-1/thach-thuc-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5400,
+    "title" : "thach-thuc-1"
+  }, {
+    "href" : "https://archive.org/download/thach-thuc-1/thach-thuc-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5400,
+    "title" : "thach-thuc-2"
+  }, {
+    "href" : "https://archive.org/download/thach-thuc-1/thach-thuc-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5400,
+    "title" : "thach-thuc-3"
+  }, {
+    "href" : "https://archive.org/download/thach-thuc-1/thach-thuc-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5400,
+    "title" : "thach-thuc-4"
+  }, {
+    "href" : "https://archive.org/download/thach-thuc-1/thach-thuc-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4208,
+    "title" : "thach-thuc-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thach-thuc-1/thach-thuc-1.mp3",
+    "title" : "thach-thuc-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thach-thuc-1/thach-thuc-2.mp3",
+    "title" : "thach-thuc-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thach-thuc-1/thach-thuc-3.mp3",
+    "title" : "thach-thuc-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thach-thuc-1/thach-thuc-4.mp3",
+    "title" : "thach-thuc-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thach-thuc-1/thach-thuc-5.mp3",
+    "title" : "thach-thuc-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

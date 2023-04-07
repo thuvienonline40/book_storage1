@@ -1,0 +1,136 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-chu-giong-noi-trong-dau_19532.html",
+    "title" : "Làm Chủ Giọng Nói Trong Đầu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blair Singer",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 24657,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_eedfa6b5139b7f624e000f6efe51615e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_eedfa6b5139b7f624e000f6efe51615e.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong0001_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2859,
+    "title" : "LamChuGiongNoiTrongDauChuong0001 Chuan"
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong02_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2018,
+    "title" : "LamChuGiongNoiTrongDauChuong02 Chuan"
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong03_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1799,
+    "title" : "LamChuGiongNoiTrongDauChuong03 Chuan"
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong0405.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3237,
+    "title" : "LamChuGiongNoiTrongDauChuong0405"
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong06_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2868,
+    "title" : "LamChuGiongNoiTrongDauChuong06 Chuan"
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong07_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2418,
+    "title" : "LamChuGiongNoiTrongDauChuong07 Chuan"
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong0809_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2193,
+    "title" : "LamChuGiongNoiTrongDauChuong0809 Chuan"
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong10A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2492,
+    "title" : "LamChuGiongNoiTrongDauChuong10A"
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong10B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2727,
+    "title" : "LamChuGiongNoiTrongDauChuong10B"
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong10C11Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2046,
+    "title" : "LamChuGiongNoiTrongDauChuong10C11Het"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong0001_Chuan.mp3",
+    "title" : "LamChuGiongNoiTrongDauChuong0001 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong02_Chuan.mp3",
+    "title" : "LamChuGiongNoiTrongDauChuong02 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong03_Chuan.mp3",
+    "title" : "LamChuGiongNoiTrongDauChuong03 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong0405.mp3",
+    "title" : "LamChuGiongNoiTrongDauChuong0405",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong06_Chuan.mp3",
+    "title" : "LamChuGiongNoiTrongDauChuong06 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong07_Chuan.mp3",
+    "title" : "LamChuGiongNoiTrongDauChuong07 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong0809_Chuan.mp3",
+    "title" : "LamChuGiongNoiTrongDauChuong0809 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong10A.mp3",
+    "title" : "LamChuGiongNoiTrongDauChuong10A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong10B.mp3",
+    "title" : "LamChuGiongNoiTrongDauChuong10B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-chu-giong-noi-trong-dau.sna/LamChuGiongNoiTrongDauChuong10C11Het.mp3",
+    "title" : "LamChuGiongNoiTrongDauChuong10C11Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

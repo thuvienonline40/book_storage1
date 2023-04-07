@@ -1,0 +1,136 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nen-kinh-te-cam-on_19709.html",
+    "title" : "Nền Kinh Tế Cám Ơn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gary Vaynerchuk",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 20817,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_f2c2e8611204ede14f3979d0dd9acec4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_f2c2e8611204ede14f3979d0dd9acec4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/01.P01A_ChaoMungDenVoiNenKinhTeCamOn_NenKinhTeCamOn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1662,
+    "title" : "01.P01A ChaoMungDenVoiNenKinhTeCamOn NenKinhTeCamOn"
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/02.P01B_ChaoMungDenVoiNenKinhTeCamOn_NenKinhTeCamOn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2332,
+    "title" : "02.P01B ChaoMungDenVoiNenKinhTeCamOn NenKinhTeCamOn"
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/03.P01C_ChaoMungDenVoiNenKinhTeCamOn_NenKinhTeCamOn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2098,
+    "title" : "03.P01C ChaoMungDenVoiNenKinhTeCamOn NenKinhTeCamOn"
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/04.P01D_ChaoMungDenVoiNenKinhTeCamOn_NenKinhTeCamOn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2722,
+    "title" : "04.P01D ChaoMungDenVoiNenKinhTeCamOn NenKinhTeCamOn"
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/05.P02A_LamSaoThang_NenKinhTeCamOn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2283,
+    "title" : "05.P02A LamSaoThang NenKinhTeCamOn"
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/06.P02B_LamSaoThang_NenKinhTeCamOn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1475,
+    "title" : "06.P02B LamSaoThang NenKinhTeCamOn"
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/07.P02C_LamSaoThang_NenKinhTeCamOn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1518,
+    "title" : "07.P02C LamSaoThang NenKinhTeCamOn"
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/08.P03A_NenKinhTeCamOnTrongThucHanh_NenKinhTeCamOn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2363,
+    "title" : "08.P03A NenKinhTeCamOnTrongThucHanh NenKinhTeCamOn"
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/09.P03B_NenKinhTeCamOnTrongThucHanh_NenKinhTeCamOn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1809,
+    "title" : "09.P03B NenKinhTeCamOnTrongThucHanh NenKinhTeCamOn"
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/10.P04_Het_NguaBai_NenKinhTeCamOn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "10.P04 Het NguaBai NenKinhTeCamOn"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/01.P01A_ChaoMungDenVoiNenKinhTeCamOn_NenKinhTeCamOn.mp3",
+    "title" : "01.P01A ChaoMungDenVoiNenKinhTeCamOn NenKinhTeCamOn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/02.P01B_ChaoMungDenVoiNenKinhTeCamOn_NenKinhTeCamOn.mp3",
+    "title" : "02.P01B ChaoMungDenVoiNenKinhTeCamOn NenKinhTeCamOn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/03.P01C_ChaoMungDenVoiNenKinhTeCamOn_NenKinhTeCamOn.mp3",
+    "title" : "03.P01C ChaoMungDenVoiNenKinhTeCamOn NenKinhTeCamOn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/04.P01D_ChaoMungDenVoiNenKinhTeCamOn_NenKinhTeCamOn.mp3",
+    "title" : "04.P01D ChaoMungDenVoiNenKinhTeCamOn NenKinhTeCamOn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/05.P02A_LamSaoThang_NenKinhTeCamOn.mp3",
+    "title" : "05.P02A LamSaoThang NenKinhTeCamOn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/06.P02B_LamSaoThang_NenKinhTeCamOn.mp3",
+    "title" : "06.P02B LamSaoThang NenKinhTeCamOn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/07.P02C_LamSaoThang_NenKinhTeCamOn.mp3",
+    "title" : "07.P02C LamSaoThang NenKinhTeCamOn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/08.P03A_NenKinhTeCamOnTrongThucHanh_NenKinhTeCamOn.mp3",
+    "title" : "08.P03A NenKinhTeCamOnTrongThucHanh NenKinhTeCamOn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/09.P03B_NenKinhTeCamOnTrongThucHanh_NenKinhTeCamOn.mp3",
+    "title" : "09.P03B NenKinhTeCamOnTrongThucHanh NenKinhTeCamOn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nen-kinh-te-cam-on.sna/10.P04_Het_NguaBai_NenKinhTeCamOn.mp3",
+    "title" : "10.P04 Het NguaBai NenKinhTeCamOn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

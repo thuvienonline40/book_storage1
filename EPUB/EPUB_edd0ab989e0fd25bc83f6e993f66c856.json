@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/an-lac-tung-buoc-chan_19275.html",
+    "title" : "An Lạc Từng Bước Chân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 11979,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_edd0ab989e0fd25bc83f6e993f66c856.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_edd0ab989e0fd25bc83f6e993f66c856.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/an-lac-1/an-lac-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4530,
+    "title" : "01 Hoi thuo y thuc- hoi thuo mau nhiem"
+  }, {
+    "href" : "https://archive.org/download/an-lac-1/an-lac-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3578,
+    "title" : "02 Chuyen hoa va tri lieu"
+  }, {
+    "href" : "https://archive.org/download/an-lac-1/an-lac-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3871,
+    "title" : "03 An lac tung buoc chan"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/an-lac-1/an-lac-1.mp3",
+    "title" : "01 Hoi thuo y thuc- hoi thuo mau nhiem",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-lac-1/an-lac-2.mp3",
+    "title" : "02 Chuyen hoa va tri lieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-lac-1/an-lac-3.mp3",
+    "title" : "03 An lac tung buoc chan",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
