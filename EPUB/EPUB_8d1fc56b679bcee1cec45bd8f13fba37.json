@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chiec-lo-giang-sinh-dieu-ky_19658.html",
+    "title" : "Chiếc Lọ Giáng Sinh Diệu Kỳ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jason F. Wright",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 9353,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_8d1fc56b679bcee1cec45bd8f13fba37.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_8d1fc56b679bcee1cec45bd8f13fba37.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chiec-lo-03/chiec-lo-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2121,
+    "title" : "chiec-lo-01"
+  }, {
+    "href" : "https://archive.org/download/chiec-lo-03/chiec-lo-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1347,
+    "title" : "chiec-lo-02"
+  }, {
+    "href" : "https://archive.org/download/chiec-lo-03/chiec-lo-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1650,
+    "title" : "chiec-lo-03"
+  }, {
+    "href" : "https://archive.org/download/chiec-lo-03/chiec-lo-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2043,
+    "title" : "chiec-lo-04"
+  }, {
+    "href" : "https://archive.org/download/chiec-lo-03/chiec-lo-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2192,
+    "title" : "chiec-lo-05"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chiec-lo-03/chiec-lo-01.mp3",
+    "title" : "chiec-lo-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-lo-03/chiec-lo-02.mp3",
+    "title" : "chiec-lo-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-lo-03/chiec-lo-03.mp3",
+    "title" : "chiec-lo-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-lo-03/chiec-lo-04.mp3",
+    "title" : "chiec-lo-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-lo-03/chiec-lo-05.mp3",
+    "title" : "chiec-lo-05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

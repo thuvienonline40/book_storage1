@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-nguoi-trong-nom-trai-dat_19636.html",
+    "title" : "Những Người Trông Nom Trái Đất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dolores Cannon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 51612,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_53fb27c628db219c1b7dabe83d53f826.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_53fb27c628db219c1b7dabe83d53f826.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5559,
+    "title" : "nhung-nguoi-1"
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7291,
+    "title" : "nhung-nguoi-2"
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7220,
+    "title" : "nhung-nguoi-3"
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6099,
+    "title" : "nhung-nguoi-4"
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5103,
+    "title" : "nhung-nguoi-5"
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9366,
+    "title" : "nhung-nguoi-6"
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10974,
+    "title" : "nhung-nguoi-7"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-1.mp3",
+    "title" : "nhung-nguoi-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-2.mp3",
+    "title" : "nhung-nguoi-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-3.mp3",
+    "title" : "nhung-nguoi-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-4.mp3",
+    "title" : "nhung-nguoi-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-5.mp3",
+    "title" : "nhung-nguoi-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-6.mp3",
+    "title" : "nhung-nguoi-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-nguoi-1/nhung-nguoi-7.mp3",
+    "title" : "nhung-nguoi-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

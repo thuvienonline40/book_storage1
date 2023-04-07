@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dam-lam-giau_19608.html",
+    "title" : "Dám Làm Giàu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phạm Tuấn Sơn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 14016,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_cd6a871b144b7a1c88d03da104391159.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_cd6a871b144b7a1c88d03da104391159.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dam-lam-1/dam-lam-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "dam-lam-1"
+  }, {
+    "href" : "https://archive.org/download/dam-lam-1/dam-lam-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "dam-lam-2"
+  }, {
+    "href" : "https://archive.org/download/dam-lam-1/dam-lam-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "dam-lam-3"
+  }, {
+    "href" : "https://archive.org/download/dam-lam-1/dam-lam-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3216,
+    "title" : "dam-lam-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dam-lam-1/dam-lam-1.mp3",
+    "title" : "dam-lam-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dam-lam-1/dam-lam-2.mp3",
+    "title" : "dam-lam-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dam-lam-1/dam-lam-3.mp3",
+    "title" : "dam-lam-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dam-lam-1/dam-lam-4.mp3",
+    "title" : "dam-lam-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,236 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/an-tu-mot-tinh-yeu_19593.html",
+    "title" : "Án Tử Một Tình Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Võ Anh Thơ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 18020,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_5837393b70c11dd0413207d74a6afffd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_5837393b70c11dd0413207d74a6afffd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL001%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201%20%20%C4%90%C3%B4i%20L%E1%BB%9Di%20C%E1%BB%A7a%20T%C3%A1c%20Gi%E1%BA%A3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 80,
+    "title" : "SNNL001 ― Án Tử Một Tình Yêu ― Chương 1  Đôi Lời Của Tác Giả"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL002%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 966,
+    "title" : "SNNL002 ― Án Tử Một Tình Yêu ― Chương 2"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL003%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 918,
+    "title" : "SNNL003 ― Án Tử Một Tình Yêu ― Chương 3"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL004%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 978,
+    "title" : "SNNL004 ― Án Tử Một Tình Yêu ― Chương 4"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL005%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 934,
+    "title" : "SNNL005 ― Án Tử Một Tình Yêu ― Chương 5"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL006%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 965,
+    "title" : "SNNL006 ― Án Tử Một Tình Yêu ― Chương 6"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL007%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 980,
+    "title" : "SNNL007 ― Án Tử Một Tình Yêu ― Chương 7"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL008%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 961,
+    "title" : "SNNL008 ― Án Tử Một Tình Yêu ― Chương 8"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL009%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 957,
+    "title" : "SNNL009 ― Án Tử Một Tình Yêu ― Chương 9"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL010%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 961,
+    "title" : "SNNL010 ― Án Tử Một Tình Yêu ― Chương 10"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL011%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 966,
+    "title" : "SNNL011 ― Án Tử Một Tình Yêu ― Chương 11"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL012%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 941,
+    "title" : "SNNL012 ― Án Tử Một Tình Yêu ― Chương 12"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL013%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 941,
+    "title" : "SNNL013 ― Án Tử Một Tình Yêu ― Chương 13"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL014%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 964,
+    "title" : "SNNL014 ― Án Tử Một Tình Yêu ― Chương 14"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL015%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 923,
+    "title" : "SNNL015 ― Án Tử Một Tình Yêu ― Chương 15"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL016%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 994,
+    "title" : "SNNL016 ― Án Tử Một Tình Yêu ― Chương 16"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL017%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 937,
+    "title" : "SNNL017 ― Án Tử Một Tình Yêu ― Chương 17"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL018%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 927,
+    "title" : "SNNL018 ― Án Tử Một Tình Yêu ― Chương 18"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL019%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 988,
+    "title" : "SNNL019 ― Án Tử Một Tình Yêu ― Chương 19"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL020%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 739,
+    "title" : "SNNL020 ― Án Tử Một Tình Yêu ― Chương 20"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL001%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201%20%20%C4%90%C3%B4i%20L%E1%BB%9Di%20C%E1%BB%A7a%20T%C3%A1c%20Gi%E1%BA%A3.mp3",
+    "title" : "SNNL001 ― Án Tử Một Tình Yêu ― Chương 1  Đôi Lời Của Tác Giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL002%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "title" : "SNNL002 ― Án Tử Một Tình Yêu ― Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL003%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "title" : "SNNL003 ― Án Tử Một Tình Yêu ― Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL004%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "title" : "SNNL004 ― Án Tử Một Tình Yêu ― Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL005%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "title" : "SNNL005 ― Án Tử Một Tình Yêu ― Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL006%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "title" : "SNNL006 ― Án Tử Một Tình Yêu ― Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL007%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "title" : "SNNL007 ― Án Tử Một Tình Yêu ― Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL008%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "title" : "SNNL008 ― Án Tử Một Tình Yêu ― Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL009%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "title" : "SNNL009 ― Án Tử Một Tình Yêu ― Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL010%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "title" : "SNNL010 ― Án Tử Một Tình Yêu ― Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL011%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "title" : "SNNL011 ― Án Tử Một Tình Yêu ― Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL012%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "title" : "SNNL012 ― Án Tử Một Tình Yêu ― Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL013%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "title" : "SNNL013 ― Án Tử Một Tình Yêu ― Chương 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL014%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014.mp3",
+    "title" : "SNNL014 ― Án Tử Một Tình Yêu ― Chương 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL015%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015.mp3",
+    "title" : "SNNL015 ― Án Tử Một Tình Yêu ― Chương 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL016%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016.mp3",
+    "title" : "SNNL016 ― Án Tử Một Tình Yêu ― Chương 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL017%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017.mp3",
+    "title" : "SNNL017 ― Án Tử Một Tình Yêu ― Chương 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL018%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018.mp3",
+    "title" : "SNNL018 ― Án Tử Một Tình Yêu ― Chương 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL019%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019.mp3",
+    "title" : "SNNL019 ― Án Tử Một Tình Yêu ― Chương 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-An-Tu-Mot-Tinh-Yeu/SNNL020%20%E2%80%95%20%C3%81n%20T%E1%BB%AD%20M%E1%BB%99t%20T%C3%ACnh%20Y%C3%AAu%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020.mp3",
+    "title" : "SNNL020 ― Án Tử Một Tình Yêu ― Chương 20",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

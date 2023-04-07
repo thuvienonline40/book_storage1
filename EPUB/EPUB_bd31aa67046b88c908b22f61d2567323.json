@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/me-ke-be-nghe_19810.html",
+    "title" : "Mẹ Kể Bé Nghe",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Võ Ngọc Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 6986,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_bd31aa67046b88c908b22f61d2567323.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_bd31aa67046b88c908b22f61d2567323.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/me-ke-1/me-ke-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1926,
+    "title" : "me-ke-1"
+  }, {
+    "href" : "https://archive.org/download/me-ke-1/me-ke-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1501,
+    "title" : "me-ke-2"
+  }, {
+    "href" : "https://archive.org/download/me-ke-1/me-ke-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1779,
+    "title" : "me-ke-3"
+  }, {
+    "href" : "https://archive.org/download/me-ke-1/me-ke-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1780,
+    "title" : "me-ke-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/me-ke-1/me-ke-1.mp3",
+    "title" : "me-ke-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-ke-1/me-ke-2.mp3",
+    "title" : "me-ke-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-ke-1/me-ke-3.mp3",
+    "title" : "me-ke-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-ke-1/me-ke-4.mp3",
+    "title" : "me-ke-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,216 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khuyen-hoc_19655.html",
+    "title" : "Khuyến Học",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Fukuzawa Yukichi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 23419,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_b758cd8f445a5d2401b8399c674e8b76.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_b758cd8f445a5d2401b8399c674e8b76.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/01.C00_MucLuc_GioiThieu_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2255,
+    "title" : "01.C00 MucLuc GioiThieu KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/02.C01_TroiKhongTaoRaNguoiDungTrenNguoi_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1370,
+    "title" : "02.C01 TroiKhongTaoRaNguoiDungTrenNguoi KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/03.C02_NguoiChiuThietLaKeVoHoc_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1254,
+    "title" : "03.C02 NguoiChiuThietLaKeVoHoc KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/04.C03_NuoiDuongChiKhiDocLap_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1360,
+    "title" : "04.C03 NuoiDuongChiKhiDocLap KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/05.C04_TrachNhiemCuaNguoiDungTrenNguoi_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1469,
+    "title" : "05.C04 TrachNhiemCuaNguoiDungTrenNguoi KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/06.C05_LongQuaCamSinhRaTuDau_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1223,
+    "title" : "06.C05 LongQuaCamSinhRaTuDau KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/07.C06_LuatPhapQuyGiaNhuTheNao_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1325,
+    "title" : "07.C06 LuatPhapQuyGiaNhuTheNao KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/08.C07_TrachNhiemCuaQuocDan_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1579,
+    "title" : "08.C07 TrachNhiemCuaQuocDan KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/09.C08_DungChuQuanDanhGiaNguoiKhac_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1116,
+    "title" : "09.C08 DungChuQuanDanhGiaNguoiKhac KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/10.C09_MucDichCuaHocVan_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1243,
+    "title" : "10.C09 MucDichCuaHocVan KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/11.C10_SongVaHyVongOTuongLai_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1105,
+    "title" : "11.C10 SongVaHyVongOTuongLai KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/12.C11_DangCapDiaViDeRaChiSiRom_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1049,
+    "title" : "12.C11 DangCapDiaViDeRaChiSiRom KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/13.C12_CachDienThuyetCoHieuQua_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1224,
+    "title" : "13.C12 CachDienThuyetCoHieuQua KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/14.C13_TeHaiNhatLaThamLam_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1094,
+    "title" : "14.C13 TeHaiNhatLaThamLam KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/15.C14_LuonXemLaiTinhThanBanThan_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1105,
+    "title" : "15.C14 LuonXemLaiTinhThanBanThan KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/16.C15_TiepThuChonLocVanMinhPhuongTay_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1324,
+    "title" : "16.C15 TiepThuChonLocVanMinhPhuongTay KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/17.C16_ChayTheoDocLapVatChatDanhMatDocLapTinhThan_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1121,
+    "title" : "17.C16 ChayTheoDocLapVatChatDanhMatDocLapTinhThan KhuyenHoc"
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/18.C17_HET_BanVeSuTinNhiem_KhuyenHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1203,
+    "title" : "18.C17 HET BanVeSuTinNhiem KhuyenHoc"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/01.C00_MucLuc_GioiThieu_KhuyenHoc.mp3",
+    "title" : "01.C00 MucLuc GioiThieu KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/02.C01_TroiKhongTaoRaNguoiDungTrenNguoi_KhuyenHoc.mp3",
+    "title" : "02.C01 TroiKhongTaoRaNguoiDungTrenNguoi KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/03.C02_NguoiChiuThietLaKeVoHoc_KhuyenHoc.mp3",
+    "title" : "03.C02 NguoiChiuThietLaKeVoHoc KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/04.C03_NuoiDuongChiKhiDocLap_KhuyenHoc.mp3",
+    "title" : "04.C03 NuoiDuongChiKhiDocLap KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/05.C04_TrachNhiemCuaNguoiDungTrenNguoi_KhuyenHoc.mp3",
+    "title" : "05.C04 TrachNhiemCuaNguoiDungTrenNguoi KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/06.C05_LongQuaCamSinhRaTuDau_KhuyenHoc.mp3",
+    "title" : "06.C05 LongQuaCamSinhRaTuDau KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/07.C06_LuatPhapQuyGiaNhuTheNao_KhuyenHoc.mp3",
+    "title" : "07.C06 LuatPhapQuyGiaNhuTheNao KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/08.C07_TrachNhiemCuaQuocDan_KhuyenHoc.mp3",
+    "title" : "08.C07 TrachNhiemCuaQuocDan KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/09.C08_DungChuQuanDanhGiaNguoiKhac_KhuyenHoc.mp3",
+    "title" : "09.C08 DungChuQuanDanhGiaNguoiKhac KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/10.C09_MucDichCuaHocVan_KhuyenHoc.mp3",
+    "title" : "10.C09 MucDichCuaHocVan KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/11.C10_SongVaHyVongOTuongLai_KhuyenHoc.mp3",
+    "title" : "11.C10 SongVaHyVongOTuongLai KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/12.C11_DangCapDiaViDeRaChiSiRom_KhuyenHoc.mp3",
+    "title" : "12.C11 DangCapDiaViDeRaChiSiRom KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/13.C12_CachDienThuyetCoHieuQua_KhuyenHoc.mp3",
+    "title" : "13.C12 CachDienThuyetCoHieuQua KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/14.C13_TeHaiNhatLaThamLam_KhuyenHoc.mp3",
+    "title" : "14.C13 TeHaiNhatLaThamLam KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/15.C14_LuonXemLaiTinhThanBanThan_KhuyenHoc.mp3",
+    "title" : "15.C14 LuonXemLaiTinhThanBanThan KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/16.C15_TiepThuChonLocVanMinhPhuongTay_KhuyenHoc.mp3",
+    "title" : "16.C15 TiepThuChonLocVanMinhPhuongTay KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/17.C16_ChayTheoDocLapVatChatDanhMatDocLapTinhThan_KhuyenHoc.mp3",
+    "title" : "17.C16 ChayTheoDocLapVatChatDanhMatDocLapTinhThan KhuyenHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuyen-hoc.sna/18.C17_HET_BanVeSuTinNhiem_KhuyenHoc.mp3",
+    "title" : "18.C17 HET BanVeSuTinNhiem KhuyenHoc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

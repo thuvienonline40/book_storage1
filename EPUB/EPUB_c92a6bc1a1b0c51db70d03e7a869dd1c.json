@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bat-dong-san-can-ban_19852.html",
+    "title" : "Bất Động Sản Căn Bản",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gary W. Eldred",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 27144,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_c92a6bc1a1b0c51db70d03e7a869dd1c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_c92a6bc1a1b0c51db70d03e7a869dd1c.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dat-dong-san-can-ban/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4916,
+    "title" : "TRUMP UNIVERSITY"
+  }, {
+    "href" : "https://archive.org/download/dat-dong-san-can-ban/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7627,
+    "title" : "Tác giả: Garry W.Eldred"
+  }, {
+    "href" : "https://archive.org/download/dat-dong-san-can-ban/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8266,
+    "title" : "Chương 11). TRUMP UNIVERSITY - Tác giả: Gary W. Eldred"
+  }, {
+    "href" : "https://archive.org/download/dat-dong-san-can-ban/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6335,
+    "title" : "Bất động sản căn bản ( Chương 12- Chương 14). Tác giả Gary W.Eldred"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dat-dong-san-can-ban/1.mp3",
+    "title" : "TRUMP UNIVERSITY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-dong-san-can-ban/2.mp3",
+    "title" : "Tác giả: Garry W.Eldred",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-dong-san-can-ban/3.mp3",
+    "title" : "Chương 11). TRUMP UNIVERSITY - Tác giả: Gary W. Eldred",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-dong-san-can-ban/4.mp3",
+    "title" : "Bất động sản căn bản ( Chương 12- Chương 14). Tác giả Gary W.Eldred",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

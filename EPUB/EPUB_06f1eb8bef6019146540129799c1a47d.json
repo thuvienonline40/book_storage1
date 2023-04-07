@@ -1,0 +1,166 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dinh-menh-da-an-bai_19807.html",
+    "title" : "Định Mệnh Đã An Bài",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Hải Thuỷ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 33023,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_06f1eb8bef6019146540129799c1a47d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_06f1eb8bef6019146540129799c1a47d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa"
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa"
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa"
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa"
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa"
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa"
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa"
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa"
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa"
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa"
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa"
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa"
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2531,
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-01.mp3",
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-02.mp3",
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-03.mp3",
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-04.mp3",
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-05.mp3",
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-06.mp3",
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-07.mp3",
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-08.mp3",
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-09.mp3",
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-10.mp3",
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-11.mp3",
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-12.mp3",
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dinh-menh-01/dinh-menh-13.mp3",
+    "title" : "Truyện dài của Hoàng Hải Thủy | Nghe Truyện Xưa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,136 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau_19402.html",
+    "title" : "Larry Page Và Google Sắp Xếp Lại Hệ Thống Thông Tin Toàn Cầu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Hoàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 20181,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_5445608c7d15ba371c1d82ad0e8e0f94.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_5445608c7d15ba371c1d82ad0e8e0f94.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/00.GioiThieu_LarryPageVaGoogle.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1189,
+    "title" : "00.GioiThieu LarryPageVaGoogle"
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/01.P01A_C01_LarryPageVaGoogle.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3306,
+    "title" : "01.P01A C01 LarryPageVaGoogle"
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/02.P01B_C02_LaryPageVaGoogle.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1449,
+    "title" : "02.P01B C02 LaryPageVaGoogle"
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/03.P01C_C03_LarryPageVaGoogle.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2093,
+    "title" : "03.P01C C03 LarryPageVaGoogle"
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/04.P01D_C04_LarryPageVaGoogle.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1416,
+    "title" : "04.P01D C04 LarryPageVaGoogle"
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/05.P02_C01_LarryPageVaGoogle.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2711,
+    "title" : "05.P02 C01 LarryPageVaGoogle"
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/06.P02B_C02_LarryPgeVaGoogle.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1911,
+    "title" : "06.P02B C02 LarryPgeVaGoogle"
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/07.P02C_C03_LarryPageVaGoogle.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2602,
+    "title" : "07.P02C C03 LarryPageVaGoogle"
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/08.P03A_ChuongCuoi_LarryPageVaGoogle.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2048,
+    "title" : "08.P03A ChuongCuoi LarryPageVaGoogle"
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/09.Het_PhuLuc_LarryPageVaGoogle.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1456,
+    "title" : "09.Het PhuLuc LarryPageVaGoogle"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/00.GioiThieu_LarryPageVaGoogle.mp3",
+    "title" : "00.GioiThieu LarryPageVaGoogle",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/01.P01A_C01_LarryPageVaGoogle.mp3",
+    "title" : "01.P01A C01 LarryPageVaGoogle",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/02.P01B_C02_LaryPageVaGoogle.mp3",
+    "title" : "02.P01B C02 LaryPageVaGoogle",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/03.P01C_C03_LarryPageVaGoogle.mp3",
+    "title" : "03.P01C C03 LarryPageVaGoogle",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/04.P01D_C04_LarryPageVaGoogle.mp3",
+    "title" : "04.P01D C04 LarryPageVaGoogle",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/05.P02_C01_LarryPageVaGoogle.mp3",
+    "title" : "05.P02 C01 LarryPageVaGoogle",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/06.P02B_C02_LarryPgeVaGoogle.mp3",
+    "title" : "06.P02B C02 LarryPgeVaGoogle",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/07.P02C_C03_LarryPageVaGoogle.mp3",
+    "title" : "07.P02C C03 LarryPageVaGoogle",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/08.P03A_ChuongCuoi_LarryPageVaGoogle.mp3",
+    "title" : "08.P03A ChuongCuoi LarryPageVaGoogle",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/larry-page-va-google-sap-xep-lai-he-thong-thong-tin-toan-cau.sna/09.Het_PhuLuc_LarryPageVaGoogle.mp3",
+    "title" : "09.Het PhuLuc LarryPageVaGoogle",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

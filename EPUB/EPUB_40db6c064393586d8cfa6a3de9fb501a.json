@@ -1,0 +1,356 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-tay-ke-la-mat_19598.html",
+    "title" : "Bàn Tay Kẻ Lạ Mặt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert Daley",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 50100,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_40db6c064393586d8cfa6a3de9fb501a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_40db6c064393586d8cfa6a3de9fb501a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL001%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20L%E1%BB%9Di%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 97,
+    "title" : "SNNL001 ― Bàn Tay Kẻ Lạ Mặt ― Lời Giới Thiệu"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL002%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1859,
+    "title" : "SNNL002 ― Bàn Tay Kẻ Lạ Mặt ― Chương 1"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL003%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2883,
+    "title" : "SNNL003 ― Bàn Tay Kẻ Lạ Mặt ― Chương 2"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL004%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3347,
+    "title" : "SNNL004 ― Bàn Tay Kẻ Lạ Mặt ― Chương 3"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL005%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1637,
+    "title" : "SNNL005 ― Bàn Tay Kẻ Lạ Mặt ― Chương 4"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL006%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1596,
+    "title" : "SNNL006 ― Bàn Tay Kẻ Lạ Mặt ― Chương 5"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL007%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3416,
+    "title" : "SNNL007 ― Bàn Tay Kẻ Lạ Mặt ― Chương 6"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL008%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1026,
+    "title" : "SNNL008 ― Bàn Tay Kẻ Lạ Mặt ― Chương 7"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL009%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1662,
+    "title" : "SNNL009 ― Bàn Tay Kẻ Lạ Mặt ― Chương 8"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL010%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1132,
+    "title" : "SNNL010 ― Bàn Tay Kẻ Lạ Mặt ― Chương 9"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL011%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1361,
+    "title" : "SNNL011 ― Bàn Tay Kẻ Lạ Mặt ― Chương 10"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL012%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1794,
+    "title" : "SNNL012 ― Bàn Tay Kẻ Lạ Mặt ― Chương 11"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL013%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2071,
+    "title" : "SNNL013 ― Bàn Tay Kẻ Lạ Mặt ― Chương 12"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL014%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1701,
+    "title" : "SNNL014 ― Bàn Tay Kẻ Lạ Mặt ― Chương 13"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL015%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1287,
+    "title" : "SNNL015 ― Bàn Tay Kẻ Lạ Mặt ― Chương 14"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL016%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1317,
+    "title" : "SNNL016 ― Bàn Tay Kẻ Lạ Mặt ― Chương 15"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL017%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2179,
+    "title" : "SNNL017 ― Bàn Tay Kẻ Lạ Mặt ― Chương 16"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL018%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 856,
+    "title" : "SNNL018 ― Bàn Tay Kẻ Lạ Mặt ― Chương 17"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL019%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1860,
+    "title" : "SNNL019 ― Bàn Tay Kẻ Lạ Mặt ― Chương 18"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL020%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1944,
+    "title" : "SNNL020 ― Bàn Tay Kẻ Lạ Mặt ― Chương 19"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL021%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1828,
+    "title" : "SNNL021 ― Bàn Tay Kẻ Lạ Mặt ― Chương 20"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL022%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1154,
+    "title" : "SNNL022 ― Bàn Tay Kẻ Lạ Mặt ― Chương 21"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL023%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1179,
+    "title" : "SNNL023 ― Bàn Tay Kẻ Lạ Mặt ― Chương 22"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL024%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2023.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1163,
+    "title" : "SNNL024 ― Bàn Tay Kẻ Lạ Mặt ― Chương 23"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL025%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2024.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1485,
+    "title" : "SNNL025 ― Bàn Tay Kẻ Lạ Mặt ― Chương 24"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL026%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2025.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1270,
+    "title" : "SNNL026 ― Bàn Tay Kẻ Lạ Mặt ― Chương 25"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL027%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2026.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1121,
+    "title" : "SNNL027 ― Bàn Tay Kẻ Lạ Mặt ― Chương 26"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL028%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2027.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 864,
+    "title" : "SNNL028 ― Bàn Tay Kẻ Lạ Mặt ― Chương 27"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL029%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2028.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1268,
+    "title" : "SNNL029 ― Bàn Tay Kẻ Lạ Mặt ― Chương 28"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL030%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2029.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1508,
+    "title" : "SNNL030 ― Bàn Tay Kẻ Lạ Mặt ― Chương 29"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL031%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2030.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 764,
+    "title" : "SNNL031 ― Bàn Tay Kẻ Lạ Mặt ― Chương 30"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL032%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2031.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1471,
+    "title" : "SNNL032 ― Bàn Tay Kẻ Lạ Mặt ― Chương 31"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL001%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20L%E1%BB%9Di%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "title" : "SNNL001 ― Bàn Tay Kẻ Lạ Mặt ― Lời Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL002%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201.mp3",
+    "title" : "SNNL002 ― Bàn Tay Kẻ Lạ Mặt ― Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL003%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "title" : "SNNL003 ― Bàn Tay Kẻ Lạ Mặt ― Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL004%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "title" : "SNNL004 ― Bàn Tay Kẻ Lạ Mặt ― Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL005%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "title" : "SNNL005 ― Bàn Tay Kẻ Lạ Mặt ― Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL006%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "title" : "SNNL006 ― Bàn Tay Kẻ Lạ Mặt ― Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL007%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "title" : "SNNL007 ― Bàn Tay Kẻ Lạ Mặt ― Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL008%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "title" : "SNNL008 ― Bàn Tay Kẻ Lạ Mặt ― Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL009%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "title" : "SNNL009 ― Bàn Tay Kẻ Lạ Mặt ― Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL010%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "title" : "SNNL010 ― Bàn Tay Kẻ Lạ Mặt ― Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL011%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "title" : "SNNL011 ― Bàn Tay Kẻ Lạ Mặt ― Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL012%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "title" : "SNNL012 ― Bàn Tay Kẻ Lạ Mặt ― Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL013%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "title" : "SNNL013 ― Bàn Tay Kẻ Lạ Mặt ― Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL014%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "title" : "SNNL014 ― Bàn Tay Kẻ Lạ Mặt ― Chương 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL015%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014.mp3",
+    "title" : "SNNL015 ― Bàn Tay Kẻ Lạ Mặt ― Chương 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL016%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015.mp3",
+    "title" : "SNNL016 ― Bàn Tay Kẻ Lạ Mặt ― Chương 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL017%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016.mp3",
+    "title" : "SNNL017 ― Bàn Tay Kẻ Lạ Mặt ― Chương 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL018%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017.mp3",
+    "title" : "SNNL018 ― Bàn Tay Kẻ Lạ Mặt ― Chương 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL019%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018.mp3",
+    "title" : "SNNL019 ― Bàn Tay Kẻ Lạ Mặt ― Chương 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL020%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019.mp3",
+    "title" : "SNNL020 ― Bàn Tay Kẻ Lạ Mặt ― Chương 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL021%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020.mp3",
+    "title" : "SNNL021 ― Bàn Tay Kẻ Lạ Mặt ― Chương 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL022%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021.mp3",
+    "title" : "SNNL022 ― Bàn Tay Kẻ Lạ Mặt ― Chương 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL023%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022.mp3",
+    "title" : "SNNL023 ― Bàn Tay Kẻ Lạ Mặt ― Chương 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL024%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2023.mp3",
+    "title" : "SNNL024 ― Bàn Tay Kẻ Lạ Mặt ― Chương 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL025%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2024.mp3",
+    "title" : "SNNL025 ― Bàn Tay Kẻ Lạ Mặt ― Chương 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL026%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2025.mp3",
+    "title" : "SNNL026 ― Bàn Tay Kẻ Lạ Mặt ― Chương 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL027%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2026.mp3",
+    "title" : "SNNL027 ― Bàn Tay Kẻ Lạ Mặt ― Chương 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL028%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2027.mp3",
+    "title" : "SNNL028 ― Bàn Tay Kẻ Lạ Mặt ― Chương 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL029%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2028.mp3",
+    "title" : "SNNL029 ― Bàn Tay Kẻ Lạ Mặt ― Chương 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL030%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2029.mp3",
+    "title" : "SNNL030 ― Bàn Tay Kẻ Lạ Mặt ― Chương 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL031%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2030.mp3",
+    "title" : "SNNL031 ― Bàn Tay Kẻ Lạ Mặt ― Chương 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Tay-Ke-La-Mat/SNNL032%20%E2%80%95%20B%C3%A0n%20Tay%20K%E1%BA%BB%20L%E1%BA%A1%20M%E1%BA%B7t%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2031.mp3",
+    "title" : "SNNL032 ― Bàn Tay Kẻ Lạ Mặt ― Chương 31",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

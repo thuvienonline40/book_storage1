@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dream-teams-doi-nhom-trong-mo_19506.html",
+    "title" : "Dream Teams, Đội Nhóm Trong Mơ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Shane Snow",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 24335,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_17dda6a54ff054b9b735c6fc97250586.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_17dda6a54ff054b9b735c6fc97250586.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doi-nhom-1/doi-nhom-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "doi-nhom-1"
+  }, {
+    "href" : "https://archive.org/download/doi-nhom-1/doi-nhom-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "doi-nhom-2"
+  }, {
+    "href" : "https://archive.org/download/doi-nhom-1/doi-nhom-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "doi-nhom-3"
+  }, {
+    "href" : "https://archive.org/download/doi-nhom-1/doi-nhom-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2735,
+    "title" : "doi-nhom-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doi-nhom-1/doi-nhom-1.mp3",
+    "title" : "doi-nhom-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-nhom-1/doi-nhom-2.mp3",
+    "title" : "doi-nhom-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-nhom-1/doi-nhom-3.mp3",
+    "title" : "doi-nhom-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doi-nhom-1/doi-nhom-4.mp3",
+    "title" : "doi-nhom-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,326 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoi-nghi-cac-nha-phau-thuat_19850.html",
+    "title" : "Hội Nghị Các Nhà Phẫu Thuật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Aziz Nesin",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 22322,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_068305c617f2b0ef9902a42bec814b7c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_068305c617f2b0ef9902a42bec814b7c.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 222,
+    "title" : "1"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 813,
+    "title" : "10"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 775,
+    "title" : "11"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 578,
+    "title" : "12"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1131,
+    "title" : "13"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 527,
+    "title" : "14"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 970,
+    "title" : "15"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 447,
+    "title" : "16"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 897,
+    "title" : "17"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 603,
+    "title" : "18"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 681,
+    "title" : "19"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 735,
+    "title" : "2"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 403,
+    "title" : "20"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1314,
+    "title" : "21"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 549,
+    "title" : "22"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1176,
+    "title" : "23"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 784,
+    "title" : "24"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1152,
+    "title" : "25"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 533,
+    "title" : "26"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 530,
+    "title" : "27"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1059,
+    "title" : "28"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 607,
+    "title" : "29"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1009,
+    "title" : "3"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 900,
+    "title" : "4"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 683,
+    "title" : "5"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1079,
+    "title" : "6"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 609,
+    "title" : "7"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1158,
+    "title" : "8"
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 398,
+    "title" : "9"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/16.mp3",
+    "title" : "16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/17.mp3",
+    "title" : "17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/18.mp3",
+    "title" : "18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/19.mp3",
+    "title" : "19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/20.mp3",
+    "title" : "20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/21.mp3",
+    "title" : "21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/22.mp3",
+    "title" : "22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/23.mp3",
+    "title" : "23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/24.mp3",
+    "title" : "24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/25.mp3",
+    "title" : "25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/26.mp3",
+    "title" : "26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/27.mp3",
+    "title" : "27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/28.mp3",
+    "title" : "28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/29.mp3",
+    "title" : "29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoinghicacnhaphauthuat/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
