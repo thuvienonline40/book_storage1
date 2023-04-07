@@ -1,0 +1,126 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thien-can-ban_19898.html#gsc.tab=0",
+    "title" : "Thiền Căn Bản",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đại sư Trí Hải",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 21754,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_0221a98667635e60fe6f20eaf47d294b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_0221a98667635e60fe6f20eaf47d294b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 691,
+    "title" : "01_Loi-mo-dau_Tieu-Su-Tac-Gia_T-Mai"
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1928,
+    "title" : "02_Cu-duyen_Tranh-duc_Xa-ai_T-Mai"
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3215,
+    "title" : "03_DieuHoa_HPhuongTien_ChanhTu_TuongThienCan_T-Mai"
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1921,
+    "title" : "04_HieuBietMaSu_TriBenh_ChungQua_T-Mai"
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1762,
+    "title" : "05_TriDaDuc_TriNongGian_TriNguSi_KPhuong"
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2467,
+    "title" : "06_TriLoNghi_TriDangPhan_KPhuong"
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2597,
+    "title" : "07_Tuong-Tu-Chung_KPhuong"
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "08_Bo-Tat-Tu-Ngu-Phap_KPhuong"
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4292,
+    "title" : "thien-can-9"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-1.mp3",
+    "title" : "01_Loi-mo-dau_Tieu-Su-Tac-Gia_T-Mai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-2.mp3",
+    "title" : "02_Cu-duyen_Tranh-duc_Xa-ai_T-Mai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-3.mp3",
+    "title" : "03_DieuHoa_HPhuongTien_ChanhTu_TuongThienCan_T-Mai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-4.mp3",
+    "title" : "04_HieuBietMaSu_TriBenh_ChungQua_T-Mai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-5.mp3",
+    "title" : "05_TriDaDuc_TriNongGian_TriNguSi_KPhuong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-6.mp3",
+    "title" : "06_TriLoNghi_TriDangPhan_KPhuong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-7.mp3",
+    "title" : "07_Tuong-Tu-Chung_KPhuong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-8.mp3",
+    "title" : "08_Bo-Tat-Tu-Ngu-Phap_KPhuong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-can-9/thien-can-9.mp3",
+    "title" : "thien-can-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
