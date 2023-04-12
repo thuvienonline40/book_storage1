@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khi-nguoi-ta-doi-muoi_20007.html",
+    "title" : "Khi Người Ta Đôi Mươi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-12",
+    "duration" : 12397,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_7381848ca9964a0a8fde51f9b7d7d236.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_7381848ca9964a0a8fde51f9b7d7d236.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khi-ta-6/khi-ta-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1978,
+    "title" : "khi-ta-1"
+  }, {
+    "href" : "https://archive.org/download/khi-ta-6/khi-ta-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1876,
+    "title" : "khi-ta-2"
+  }, {
+    "href" : "https://archive.org/download/khi-ta-6/khi-ta-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1948,
+    "title" : "khi-ta-3"
+  }, {
+    "href" : "https://archive.org/download/khi-ta-6/khi-ta-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1957,
+    "title" : "khi-ta-4"
+  }, {
+    "href" : "https://archive.org/download/khi-ta-6/khi-ta-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1944,
+    "title" : "khi-ta-5"
+  }, {
+    "href" : "https://archive.org/download/khi-ta-6/khi-ta-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2694,
+    "title" : "khi-ta-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khi-ta-6/khi-ta-1.mp3",
+    "title" : "khi-ta-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-ta-6/khi-ta-2.mp3",
+    "title" : "khi-ta-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-ta-6/khi-ta-3.mp3",
+    "title" : "khi-ta-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-ta-6/khi-ta-4.mp3",
+    "title" : "khi-ta-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-ta-6/khi-ta-5.mp3",
+    "title" : "khi-ta-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khi-ta-6/khi-ta-6.mp3",
+    "title" : "khi-ta-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
