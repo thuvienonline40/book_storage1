@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/duong-khong-bien-gioi_20107.html",
+    "title" : "Đường Không Biên Giới",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Như Điển",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 48402,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_4ea0cee35fcf0e5bfa426dc08bc017cb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_4ea0cee35fcf0e5bfa426dc08bc017cb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "duong-khong-1"
+  }, {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "duong-khong-2"
+  }, {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "duong-khong-3"
+  }, {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "duong-khong-4"
+  }, {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "duong-khong-5"
+  }, {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "duong-khong-6"
+  }, {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5202,
+    "title" : "duong-khong-7"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-1.mp3",
+    "title" : "duong-khong-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-2.mp3",
+    "title" : "duong-khong-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-3.mp3",
+    "title" : "duong-khong-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-4.mp3",
+    "title" : "duong-khong-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-5.mp3",
+    "title" : "duong-khong-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-6.mp3",
+    "title" : "duong-khong-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-khong-1/duong-khong-7.mp3",
+    "title" : "duong-khong-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

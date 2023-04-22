@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thien-tai-su-giao-duc-tu-som_20080.html",
+    "title" : "Thiên Tài & Sự Giáo Dục Từ Sớm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kimura Kyuichi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 12518,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_8c3912dfb0414a16826ef074b98e7d4d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_8c3912dfb0414a16826ef074b98e7d4d.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thien-tai-va-su-giao-duc-tu-som.sna/00.GioiThieu_ThienTaiVaSuGiaoDucTuSom.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 237,
+    "title" : "00.GioiThieu ThienTaiVaSuGiaoDucTuSom"
+  }, {
+    "href" : "https://archive.org/download/thien-tai-va-su-giao-duc-tu-som.sna/01.P01_C01C02_GiaoDucTuSomDaoTaoThienTai_WitteDuocGiaoDucNhuTheNao_ThienTaiVaSuGiaoDucTuSom.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2496,
+    "title" : "01.P01 C01C02 GiaoDucTuSomDaoTaoThienTai WitteDuocGiaoDucNhuTheNao ThienTaiVaSuGiaoDucTuSom"
+  }, {
+    "href" : "https://archive.org/download/thien-tai-va-su-giao-duc-tu-som.sna/02.P02_C03_AnhEmThomsonMillGotheDuocGiaoDucNhuTheNao_ThienTaiVaSuGiaoDucTuSom.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3330,
+    "title" : "02.P02 C03 AnhEmThomsonMillGotheDuocGiaoDucNhuTheNao ThienTaiVaSuGiaoDucTuSom"
+  }, {
+    "href" : "https://archive.org/download/thien-tai-va-su-giao-duc-tu-som.sna/03.C05_QuanDiemGiaoDucCuaSidis_ThienTaiVaSuGiaoDucTuSom.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1448,
+    "title" : "03.C05 QuanDiemGiaoDucCuaSidis ThienTaiVaSuGiaoDucTuSom"
+  }, {
+    "href" : "https://archive.org/download/thien-tai-va-su-giao-duc-tu-som.sna/03.P03_C04C06_ThienTaiDuocSinhRaNhuTheNao_PPGiaoDucCuaTienSiBerle_ThienTaiVaSuGiaoDucTuSom.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1941,
+    "title" : "03.P03 C04C06 ThienTaiDuocSinhRaNhuTheNao PPGiaoDucCuaTienSiBerle ThienTaiVaSuGiaoDucTuSom"
+  }, {
+    "href" : "https://archive.org/download/thien-tai-va-su-giao-duc-tu-som.sna/04.P04_C07_PPGiaoDucCuaStoner_Het_ThienTaiVaSuGiaoDucTuSom.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3066,
+    "title" : "04.P04 C07 PPGiaoDucCuaStoner Het ThienTaiVaSuGiaoDucTuSom"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thien-tai-va-su-giao-duc-tu-som.sna/00.GioiThieu_ThienTaiVaSuGiaoDucTuSom.mp3",
+    "title" : "00.GioiThieu ThienTaiVaSuGiaoDucTuSom",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-va-su-giao-duc-tu-som.sna/01.P01_C01C02_GiaoDucTuSomDaoTaoThienTai_WitteDuocGiaoDucNhuTheNao_ThienTaiVaSuGiaoDucTuSom.mp3",
+    "title" : "01.P01 C01C02 GiaoDucTuSomDaoTaoThienTai WitteDuocGiaoDucNhuTheNao ThienTaiVaSuGiaoDucTuSom",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-va-su-giao-duc-tu-som.sna/02.P02_C03_AnhEmThomsonMillGotheDuocGiaoDucNhuTheNao_ThienTaiVaSuGiaoDucTuSom.mp3",
+    "title" : "02.P02 C03 AnhEmThomsonMillGotheDuocGiaoDucNhuTheNao ThienTaiVaSuGiaoDucTuSom",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-va-su-giao-duc-tu-som.sna/03.C05_QuanDiemGiaoDucCuaSidis_ThienTaiVaSuGiaoDucTuSom.mp3",
+    "title" : "03.C05 QuanDiemGiaoDucCuaSidis ThienTaiVaSuGiaoDucTuSom",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-va-su-giao-duc-tu-som.sna/03.P03_C04C06_ThienTaiDuocSinhRaNhuTheNao_PPGiaoDucCuaTienSiBerle_ThienTaiVaSuGiaoDucTuSom.mp3",
+    "title" : "03.P03 C04C06 ThienTaiDuocSinhRaNhuTheNao PPGiaoDucCuaTienSiBerle ThienTaiVaSuGiaoDucTuSom",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-va-su-giao-duc-tu-som.sna/04.P04_C07_PPGiaoDucCuaStoner_Het_ThienTaiVaSuGiaoDucTuSom.mp3",
+    "title" : "04.P04 C07 PPGiaoDucCuaStoner Het ThienTaiVaSuGiaoDucTuSom",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

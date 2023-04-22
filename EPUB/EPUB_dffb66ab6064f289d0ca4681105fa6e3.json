@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/an-tinh-menh-mong_20072.html",
+    "title" : "Ân Tình Mênh Mông",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Thiện Đạo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 4783,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/EPUB/EPUB_dffb66ab6064f289d0ca4681105fa6e3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage1/main/IMAGE/IMAGE_dffb66ab6064f289d0ca4681105fa6e3.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/an-tinh-3/an-tinh-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1565,
+    "title" : "01_Loi gioi thieu_Tinh khuc Vu Lan"
+  }, {
+    "href" : "https://archive.org/download/an-tinh-3/an-tinh-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1315,
+    "title" : "02_Le hoi tinh nguoi"
+  }, {
+    "href" : "https://archive.org/download/an-tinh-3/an-tinh-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1903,
+    "title" : "03_Me xa con that roi"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/an-tinh-3/an-tinh-1.mp3",
+    "title" : "01_Loi gioi thieu_Tinh khuc Vu Lan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-tinh-3/an-tinh-2.mp3",
+    "title" : "02_Le hoi tinh nguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-tinh-3/an-tinh-3.mp3",
+    "title" : "03_Me xa con that roi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
