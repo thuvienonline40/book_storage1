@@ -1,0 +1,190 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/qp-soul-of-violence",
+    "title" : "Qp: Soul Of Violence",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 54,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://1.bp.blogspot.com/-BK7O7Woqbcc/WORMtbIYA-I/AAAAAAAGuT0/RjK9Rt3Z4Z4/073%2520copy%2520%25281%2529.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-_Dtw8H8WhZI/WORMtigWsCI/AAAAAAAGuT4/pwnV5opMrzI/074%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-DpFnejOW_bs/WORMux1fHTI/AAAAAAAGuT8/zKMMKKv_M-Q/075%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-vPKymBzCwSg/WORMvY9O0aI/AAAAAAAGuUA/-ZJJpMlGFS4/076%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-pHsk7d_gctw/WORMwbwUWbI/AAAAAAAGuUE/5XS0SE8kASc/077%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-_EAZKq2l_mQ/WORMxGsrhlI/AAAAAAAGuUI/224c1NUGvrg/078%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-Y6RzNS3csrE/WORMxjiNbeI/AAAAAAAGuUM/2yyr1FsZb50/079%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-CHl3zR6mAHA/WORMyeI5-wI/AAAAAAAGuUQ/_5103h-oA7U/080%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-8Zm9llSJrM4/WORMzCl899I/AAAAAAAGuUU/80AwxfkfQ80/081%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-VLThW61Z8Jw/WORMzpvOxHI/AAAAAAAGuUY/zsGlf5R5UXM/082%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-PFwzUd0ykAc/WORM0TTdzdI/AAAAAAAGuUc/uVDAM7fp4SE/083%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-mFatHzHyO7s/WORM1GJ8PoI/AAAAAAAGuUg/Lxg-AU5PLAs/085%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-QKgoHKDZrDY/WORM1nQxkPI/AAAAAAAGuUk/9fBlurNu9_I/086%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-8NuqCkapdzU/WORM2BbRzTI/AAAAAAAGuUo/ELGiIu3QfNU/087%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-BSd27QQrqvY/WORM2tDgrfI/AAAAAAAGuUs/5mvfBkBjKNQ/088%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-1KDzQJMCZJo/WORM3fkA33I/AAAAAAAGuUw/ot-hYoQdwe0/089%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-vW8C0EY32wo/WORM4IVWG0I/AAAAAAAGuU0/mD645vRIHZM/090%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-LkPFBhkvWQc/WORM4u8NymI/AAAAAAAGuU4/Mg3hPr_3H5k/091%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-jqOX7Jcyl5k/WORM5BbjoHI/AAAAAAAGuU8/wTwJmbjsNQ8/092%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-LZOeXJSEviw/WORM6c5S0cI/AAAAAAAGuVA/vfnGjreqQ64/093%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-ZimfjKaxPH8/WORM6wXOtHI/AAAAAAAGuVE/wHLttZjrztc/094%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

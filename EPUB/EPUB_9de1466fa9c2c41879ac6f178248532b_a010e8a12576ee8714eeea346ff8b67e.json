@@ -1,0 +1,218 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/qp-soul-of-violence",
+    "title" : "Qp: Soul Of Violence",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 54,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://1.bp.blogspot.com/--MgdJPI-078/WOGlZ9x4HpI/AAAAAAAGt-o/DVCXeg80AuA/002%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-8bRyT4ZRnkc/WOGlagGlg_I/AAAAAAAGt-s/BhNah7RZWSM/003%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-92QvS4neQ2k/WOGlbKO6kUI/AAAAAAAGt-w/IKsnkdaB4XE/004%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-5OrwAnHtdGw/WOGlbu8EtXI/AAAAAAAGt-0/x2o7ZhdWSPU/005%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-9Fui7gSkm5I/WOGlcQfLdzI/AAAAAAAGt-4/zyaFAPuaOeA/006%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-Vw3ePCyvIfk/WOGlcyE6h6I/AAAAAAAGt-8/t7j13DmWqQQ/007%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-m3-twvJMirM/WOGldsW7d3I/AAAAAAAGt_A/LBDfZGT1WLU/008%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-cPk-9KZBjcY/WOGleY5uEeI/AAAAAAAGt_E/mHQxL9tnvVs/009%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-a_sI6HSTGKA/WOGle4WZfFI/AAAAAAAGt_I/eIYs1xgkfgI/010%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-nZdl6dJh9_w/WOGlfgp472I/AAAAAAAGt_M/HnLhXzN6GUQ/011%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-N7XhPRmz794/WOGlgKepnOI/AAAAAAAGt_Q/WPHHCBQ22fw/012%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-l1Fe0mSqfeM/WOGlgmmjNiI/AAAAAAAGt_U/QMrnhHHGcfo/013%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-VKrzhqkqdec/WOGlhBOD9TI/AAAAAAAGt_Y/lNBGI3Dbk-U/014%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-lVbBAQxy7VI/WOGlhhhzahI/AAAAAAAGt_c/KuKu0Di6obA/015%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-rJ7pd7DEecE/WOGliMyDuzI/AAAAAAAGt_g/m8TdBOvufHc/016%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-AZkFb_eITAE/WOGlijqG2wI/AAAAAAAGt_k/thShXhxLZRs/017%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-DDiPhVv7ky0/WOGljOPRy2I/AAAAAAAGt_o/3M-0_5hVEGM/018%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-Zg_KKyURH1c/WOGlj_yIWcI/AAAAAAAGt_s/gJnxUWEnHAY/019%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-I8HxE7i98ls/WOGlkXTKYVI/AAAAAAAGt_w/rzwZfmjQl8Q/020%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-gei7v2F9bUI/WOGlki1TLzI/AAAAAAAGt_0/O9HPqwAbdLE/021%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-RG3MiFs8MO0/WOGllAD14wI/AAAAAAAGt_4/zTuC5eULdUk/022%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-cb0WJrQxqiE/WOGllgdp8WI/AAAAAAAGt_8/oyzKS5NDx4U/023%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-BkTzoPt6O8I/WOGlmTgN9aI/AAAAAAAGuAA/UYxY08yur0A/024%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-zE2_gt9zpS4/WOGlnavrh9I/AAAAAAAGuAE/EGwBB3pIGLQ/025%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-4buduBlshG8/WOGln_I3SFI/AAAAAAAGuAI/YhfqR1o7hqg/026%2520copy.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
