@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/mitsuyaku",
+    "title" : "Mitsuyaki - One shot",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 1,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://2.bp.blogspot.com/-98jOIMYy0Uc/XDipVa4ZgNI/AAAAAAAAOvM/MQPpktVWvs8sL7pTrRgX3_OKASqo7zFdACHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---001.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-VE2kMItV00Y/XDipWUatbVI/AAAAAAAAOvc/bh00EPRfhs4aCDqX87mbQXh2dOpIQHEogCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---002.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-i9YBUqwWp6A/XDipX0FOHcI/AAAAAAAAOvo/S1Wly70t-Gk2xBFGnoQ5uzTpq3BPryW9QCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---003.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-IC8gJvVAs-o/XDipZPZxKRI/AAAAAAAAOv4/fh6x5nga1981PhgcvqKP_dMMUjl5zXwxACHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---004.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-QYIAg3ls_Bc/XDipbU-j0PI/AAAAAAAAOwE/YYhqS6OSAqA_63xczX9vYHMwsIq49AUoQCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---005.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/--RQoJkkjw4I/XDipcvGQMbI/AAAAAAAAOwQ/gJ3yRJxcOEUAnLSdqoWR5O3po7LzszEtQCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---006.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-67JlHgXPJJo/XDipeH1SfYI/AAAAAAAAOwc/iqZf7oM5YakFZ18TmMv1H05dGY_lmVN7gCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---007.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-OBOOvAuA7Sc/XDipfpPIc-I/AAAAAAAAOwo/kB6651gd8hQYVWSohAwWM0JuPRUY0gISgCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---008.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-Zvjte5jvFk8/XDiphPqRziI/AAAAAAAAOw0/0iyQ-qGDMfIBqvWAIjhkma9_LCzXjX28QCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---009.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/-o4rD2SNkWag/XDipilN0niI/AAAAAAAAOxA/rgsMYBo9sDce-AbWzHpixrj2OPQj87q1gCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---010.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-OZyjWDwo5Wg/XDipkToq70I/AAAAAAAAOxM/A-i4EMtrAswFF_mAqAJXoqXd9thWi3-_ACHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---011.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-ETlywYj9-5A/XDipl2dSAGI/AAAAAAAAOxc/eGELE8f6nZc3MCopxoGS4xrXGhjevEuhwCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---012.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/-O8SsVFrPbAA/XDipn6ZsUhI/AAAAAAAAOxs/8SZ0jgZu2Rc7r1wn7hlF-sqNdWMgTcCXwCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---013.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/-MaFU1l1fxoE/XDipppWrfJI/AAAAAAAAOx8/sd07ksrMg30VKn6u8O3kS7oekFDruTU6gCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---014.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-FglUCRTGuLw/XDipq_pNRcI/AAAAAAAAOyQ/9jAoSZbCiEAAkwu-HPjgchYsil9kZH5_gCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---015.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-3mv9qWHRRG8/XDiptfTTeFI/AAAAAAAAOyk/y3oMHTOqhhs8isOITh_GtY53OiN-6WuJACHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---016.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-_FE3USTfpro/XDipvR1YljI/AAAAAAAAOy4/8gdp1-tEJesT-aQf85RO0AfP5-Jqnqi7gCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---017.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/-L4OJ5k-Hj30/XDip0DTwsHI/AAAAAAAAOzg/fIoRZQic0CUD1660_5pIwz5xigLXDMr4QCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---019.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-8hmJnsAtE04/XDip2yf6qMI/AAAAAAAAOz4/tjdA7ehxmboExA7kGNhF_Z5F2L_paPAZACHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---020.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/-ZEN6l_uh_2g/XDirx4PhQ1I/AAAAAAAAPFc/XwtviGZxiSYte5GtcO-ycQFqBfC1YyhDgCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---023.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://4.bp.blogspot.com/-C4iofka-_ek/XDirzQVaaGI/AAAAAAAAPFs/pwHC9qgNNrApGkEtMeyHnUhaiJKjrAGnQCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---024.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://3.bp.blogspot.com/-vXV-fEINV0M/XDir09gcraI/AAAAAAAAPF8/jZ7v64w13bIMvfvBTgo2V0cPyd8JzIIlgCHMYCw/I/Mitsuyaku---Fan-Cuong-Boy-Love---025.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
