@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "http://alotruyentranh.com/18428/tao-tac-trong-nguc-toi",
+    "title" : "Tạo Tác Trong Ngục Tối",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-28",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 31,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmpux90uQ03PgwD5oUmnZ1lKUmnZOKz8N3ZbFAa36CPuDQpD6R8mMPA==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmrRdAa36TAJcjfzQD5oUmnZ1lKUmnZOKz8N3ZbFAa36CPuDQpD6R8mMPA==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmpUX01RkL3GCwD5oUmnZ1lKUmnZOKz8N3ZbFAa36CPuDQpD6R8mMPA==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmoSDAUz1ijfcAD5oUmnZ1lKUmnZOKz8N3ZbFAa36CPuDQpD6R8mMPA==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmo99LXGeNJRAa36gD5oUmnZ1lKUmnZOKz8N3ZbFAa36CPuDQpD6R8mMPA==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmpgPHwRgGzNqQD5oUmnZ1lKUmnZOKz8N3ZbFAa36CPuDQpD6R8mMPA==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmowmwWFt3pFfQD5oUmnZ1lKUmnZOKz8N3ZbFAa36CPuDQpD6R8mMPA==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmpmT6MkMXYolAD5oUmnZ1lKUmnZOKz8N3ZbFAa36CPuDQpD6R8mMPA==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmpfjaLPx2VDngD5oUmnZ1lKUmnZOKz8N3ZbFAa36CPuDQpD6R8mMPA==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmpZQTXUVaEDAgD5oUmnZ1lKUmnZOKz8N3ZbFAa36CPuDQpD6R8mMPA==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmqaynl6QTfAa36KF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmp05WoBUmnZXX0cV4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmqZtcMjFauLYF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmqrFYyuGaoxJF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmqMjGSrXwW0UmnZl4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmo3rAa36iZeNFIfV4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmoXtF69fFKkXV4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmpUmnZbZ3AOKXUmnZnF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmqWUmnZztrfN7eBV4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmrznZT2RUHlQF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmq2V8nhu3dHcl4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmpc8bv14KJch14Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmpVc916OwALol4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://server.truyendoc.info/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmp6ApXuUfsSd14Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmpq9Nck2aZXRF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmqJu9RS7Hh4YV4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmqU5aw7VAa361u0l4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://server.truyendoc.info/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmrJZudswzw2NF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmposZL34dC9cF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmpuPpwJfbe6ll4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmqrpxde8R5PVV4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmrTXqlAUmnZNynNV4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://server.truyendoc.info/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmpz8BEuqBkdQF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmpJNwaJ7rE6FV4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmpFu5h15cvhh14Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmogDBZTUmnZQWOfV4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmqjAa36SLL672Vnl4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmqTbXYcs6Z2CF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmqozwZltGLbUmnZF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmqPn0q0q3cUl14Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmrmtxFSUg70iF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmpMr7kjgak7lV4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmq4FV3oKYjtYF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmobVHtPUmnZpq5aV4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2XmqfIrTqokqBHl4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://cdn.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmp8A58laF7tmF4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "http://proxy.doctruyentranh.online/image-comic/ufU0meAa36u0Eyrb0jjkZCDdXRicx30t3m3EaQ8JyJ2Xmp6WvD3b15yjV4Qw3ddYRewCvDi1k71cr6VDFbBMUmnZgKneUXqrtzXNOu",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
