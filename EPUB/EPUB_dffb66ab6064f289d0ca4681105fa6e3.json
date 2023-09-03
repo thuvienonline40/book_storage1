@@ -13,9 +13,14 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-22",
+    "published" : "2023-08-22",
     "duration" : 4783,
     "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
     "@type" : "http://schema.org/Audiobook",
     "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
   },
@@ -31,34 +36,40 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/an-tinh-3/an-tinh-1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_dffb66ab6064f289d0ca4681105fa6e3_be313c4b123143a6aa25b230845b221c.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1565,
-    "title" : "01_Loi gioi thieu_Tinh khuc Vu Lan"
+    "title" : "01_Loi gioi thieu_Tinh khuc Vu Lan",
+    "properties" : null,
+    "alternate" : null
   }, {
-    "href" : "https://archive.org/download/an-tinh-3/an-tinh-2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_dffb66ab6064f289d0ca4681105fa6e3_ac6f263c19842c03237af294a5339581.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1315,
-    "title" : "02_Le hoi tinh nguoi"
+    "title" : "02_Le hoi tinh nguoi",
+    "properties" : null,
+    "alternate" : null
   }, {
-    "href" : "https://archive.org/download/an-tinh-3/an-tinh-3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_dffb66ab6064f289d0ca4681105fa6e3_8acb22654f2ec922713e4e007aae6920.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1903,
-    "title" : "03_Me xa con that roi"
+    "title" : "03_Me xa con that roi",
+    "properties" : null,
+    "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/an-tinh-3/an-tinh-1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_dffb66ab6064f289d0ca4681105fa6e3_be313c4b123143a6aa25b230845b221c.mp3",
     "title" : "01_Loi gioi thieu_Tinh khuc Vu Lan",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/an-tinh-3/an-tinh-2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_dffb66ab6064f289d0ca4681105fa6e3_ac6f263c19842c03237af294a5339581.mp3",
     "title" : "02_Le hoi tinh nguoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/an-tinh-3/an-tinh-3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_dffb66ab6064f289d0ca4681105fa6e3_8acb22654f2ec922713e4e007aae6920.mp3",
     "title" : "03_Me xa con that roi",
     "children" : [ ]
   } ],
